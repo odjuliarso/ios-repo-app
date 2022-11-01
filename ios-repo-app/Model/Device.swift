@@ -21,4 +21,5 @@ class Device: Codable {
     var DeviceID: String?
     var DeviceNum: String?
     var DeviceType: DeviceType?
+    var DeviceName: String?
 }
